@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**LuoLuann/LuoLuann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/LuoLuann">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuoLuann&theme=github_dark&show_icons=true"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuoLuann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
+  
+</div>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
