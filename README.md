@@ -1,5 +1,5 @@
 ### Hi, my name is Luann 👋
-### Computer Science student: 4/9 | Web development in LMTS
+### Computer Science student: 5/9 | Web development in LMTS
 ## 
 <div>
   <a href="https://github.com/LuoLuann">
